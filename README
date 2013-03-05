@@ -1,0 +1,3 @@
+This is the repo for core Druid. Druid is a data normalisation library for creating 'Aspects' from data sources, and then normalising them in an easy to use format which can be persisted using NoSQL stores, Search Engines and Archives.
+
+Author is ian.lawson@redhat.com
